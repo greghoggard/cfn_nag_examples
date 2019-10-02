@@ -10,7 +10,7 @@ cfn_nag is a ruby gem. [Assuming you have Ruby installed already](https://www.ru
 
 ### Simple example: Encrypted EBS Volumes
 
-Encrypted EBS volumes are an excellent example of something cfn_nag will help enforce. There's really no reason you _don't_ want your EBS volumes encrypted, so if cfn_nag detects you are provisioning an unencrypted EBS volume, it'll issue and error.
+Encrypted EBS volumes are an excellent example of something cfn_nag will help enforce. There's really no reason you _don't_ want your EBS volumes encrypted, so if cfn_nag detects ysdafou are provisioning an unencrypted EBS volume, it'll issue and error.
 
     cfn_nag_scan --input-path cfn/volume.yml
 
