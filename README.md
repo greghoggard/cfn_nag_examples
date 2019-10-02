@@ -3,7 +3,7 @@
 This repository contains several CloudFormation templates that demonstrate the various capabilties of cfn_nag, a static analyzer of CloudFormation templates. It will look at your CloudFormation template files, and look for known anti-patterns that are best avoided.
 
 ### Install cfn-nag
-
+test
 cfn_nag is a ruby gem. [Assuming you have Ruby installed already](https://www.ruby-lang.org/en/documentation/installation/), installing cfn_nag is a snap:
 
     gem install cfn-nag
