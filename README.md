@@ -4,7 +4,7 @@ This repository contains several CloudFormation templates that demonstrate the v
 
 ### Install cfn-nag
 test
-cfn_nag is a ruby gem. [Assuming you have Ruby installed already](https://www.ruby-lang.org/en/documentation/installation/), installing cfn_nag is a snap:
+cfn_nag is a ruby gem. [Assuming you have Ruby installed already](https://www.ruby-lang.org/en/documentation/installation/), installing cfn_nag is a snap:asdfsd
 
     gem install cfn-nag
 
